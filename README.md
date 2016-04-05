@@ -6,7 +6,8 @@ Springboard-Capstone: final report
   
   
 ## Data:  
-All data for this project is open-source and can be found here: http://www.ess.tu-darmstadt.de/ichi2014  
+All patient data for this project is open-source and can be found here: http://www.ess.tu-darmstadt.de/ichi2014  
+Model performance data obtained from my analysis is contained in SleepAnalysisModelResults.csv  
   
   
 ## Code:  
