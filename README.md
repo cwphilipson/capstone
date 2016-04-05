@@ -1,6 +1,6 @@
 # capstone
 Characterizing sleep disorders using data from smart watch  
-Files:  
+## Files:  
 1_ProposalCapstone : preliminary proposal  
 Springboard-Capstone: final report  
   
