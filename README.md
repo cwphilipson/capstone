@@ -4,7 +4,12 @@ Files:
 1_ProposalCapstone : preliminary proposal  
 Springboard-Capstone: final report  
   
-Code:  
+  
+## Data:  
+All data for this project is open-source and can be found here: http://www.ess.tu-darmstadt.de/ichi2014  
+  
+  
+## Code:  
 SleepAnalysisCondensed.R : uploads functions, runs analysis on healthy patient, creates visualizations  
 SleepAnalysisFunctions.R : detailed file containing functions I made and library needed for analysis (can be run independently)  
 SleepAnalysisHealthy.R : imports and tidys data, performs feature engineering, builds a random forest model (requires SleepAnalysisFunction.R)  
